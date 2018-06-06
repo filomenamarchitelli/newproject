@@ -7,7 +7,7 @@ New Project
 .. _h711fe1c551223c7f5a441733682773:
 
 Chapter 1
-=========
+*********
 
 Content of chapter 1
 
